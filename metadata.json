@@ -1,0 +1,15 @@
+{
+  "name": "Aylo",
+  "symbol": "AYLO",
+  "description": "AYLO Token - премиум сегмент стритвира с собственной экосистемой",
+  "image": "https://raw.githubusercontent.com/brelamoon/aylo-token-logo/main/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/brelamoon/aylo-token-logo/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token"
+  }
+}
